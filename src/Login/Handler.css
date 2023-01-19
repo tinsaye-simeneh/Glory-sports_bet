@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: montserrat, sans-serif;
+  }
+  
+  input, button{
+    appearance: none;
+    background: none;
+    border: none;
+    outline: none;
+  }
+  .App{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(71, 71, 71);
+  
+  }
+  form{
+    display: block;
+    position: relative;
+  }
+  
+  .loginForm{
+    position: relative;
+    display: block;
+    background-color: rgb(238, 237, 237);
+    padding: 5vh;
+    z-index: 2;
+    border-radius: 10px;
+  }
+  .loginForm h2{
+    color: rgb(63, 62, 62);
+    font-size: 30px;
+    font-weight: 500px;
+    margin-bottom: 30px;
+  }
+  form .loginForm .form-group{
+    display: block;
+    width: 300px;
+    margin-bottom: 15px;
+  }
+  .loginForm .form-group label{
+    display: block;
+    color: rgb(58, 58, 58);
+    font-size: 15px;
+    margin-bottom: 5px;
+    transition: 0.4s;
+  }
+  
+  .loginForm .form-group input{
+    display:block;
+    width: 100%;
+    padding: 10px 15px;
+    background-color: #d3d0d0;
+    border-radius: 8px;
+    transition: 0.4s;
+  }
+  
+  form .loginForm input[type='submit'], .welcome button {
+    display: inline-block;
+    padding: 10px 15px;
+    border-radius: 8px;
+    background-color: black;
+    color: rgb(223, 223, 117);
+  }
+  form .loginForm input[type='submit']:hover{
+    opacity: 0.8;
+  }
+  .welcome button:hover{
+    opacity: 0.8;
+  }
+  .welcome{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    padding: 15px 30px;
+  }
+  .welcome h2{
+    color: gray;
+    font-size: 28px;
+    font-weight: 500;
+    padding-bottom: 50px;
+  }
+  .error{
+    transition: 0.2s;
+    color: red;
+  }
+  .welcome,.employee{
+    padding-top: 50px;
+  }
+  .logOutButton{
+    margin: 10vh;
+    border: none;
+    margin-left: 10vh;
+    height: 5vh;
+    width: 13vh;
+    font-size: 2.2vh;
+    text-decoration: none;
+    color: black;
+    background-color: #FCD609 ;
+  }

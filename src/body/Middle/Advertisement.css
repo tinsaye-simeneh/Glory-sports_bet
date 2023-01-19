@@ -1,0 +1,10 @@
+.advert{ 
+    display: flex;
+    justify-content:center;
+    border: 1px solid #000;
+    background-color: white;
+    color: black;
+    width: 90vh;
+    height: 30vh;
+    margin: 3vh;
+}

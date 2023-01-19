@@ -1,0 +1,18 @@
+.rules{
+    width: 160vh;
+    height: 100vh;
+    background-color: gray;
+    margin-top: 5vh;
+    margin-left: 22vh;
+    text-align: center;
+    color: white    
+}
+
+.ruleText{
+    padding: 3vh 10vh 0vh 10vh;
+text-align: left;
+}
+
+.retail{
+  padding-top: 5vh;
+}

@@ -1,0 +1,58 @@
+.footerTable{
+    background-color: black;
+    color:white;
+    width: 100%;
+    table-layout: fixed;
+    text-align: center;
+    padding:100px;
+}
+.helpContact{
+    padding-top: 5vh;
+    font-size: 4vh;
+    font-family: Verdana;
+    font-weight: bold;
+}
+.address{
+    font-size: 2vh;
+    margin: 0;
+}
+.site{
+    font-size: 2vh;
+    margin: 0;
+    margin-bottom: 5vh; 
+}
+.navText{
+    text-align: center;
+    font-weight: bold;
+    padding: 4px;
+}
+.addictive{
+    padding-top: 5vh;
+    margin-bottom: 0;
+    color:#dbc754;
+    font-weight: bold;
+    font-size: 2vh;
+}
+.lottery{
+    color:#dbc754;
+    font-size: 2vh;
+    font-weight: bold;
+
+}
+.age{
+    position: relative;
+    left: 33vh;
+    color: black;
+    padding-top:6px;
+    padding-left:3px;
+    width:6vh;
+    height:6vh;
+    font-size: 2.7vh;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 50%;
+    background-color:#FCD609;
+}
+.icons{
+    font-size: 5vh;
+}

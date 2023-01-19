@@ -1,0 +1,77 @@
+.box{
+    margin: 3vh;
+}
+.matchesBox{
+    border-style: solid;
+    border-color: #dbdbdb;
+    border-width: 1.7px;
+    width: 90vh;
+    padding: 1.5vh;
+}
+.matchesTable{
+    width:100%;
+}
+.opp1Button{
+    background-color: #C2C2C2;
+    border: none;
+    text-decoration: none;
+    height: 5vh;
+    width: 25vh;
+}
+
+.drawButton{
+    background-color: #C2C2C2;
+    border: none;
+    text-decoration: none;
+    height: 5vh;
+    width: 25vh;
+    text-align: left;
+    padding-left: 2.5vh;
+    margin-left:1.5vh;
+    margin-right:1.5vh;
+}
+.opp2Button{
+    background-color: #C2C2C2;
+    border: none;
+    text-decoration: none;
+    height: 5vh;
+    width: 25vh;
+}
+.spanMatches{
+    display: inline-block;
+    width: 15vh;
+}
+.details{
+    position: absolute;
+    left:150.2vh;
+    bottom:60vh;
+    height:1px;
+    padding-top: 10px;
+    color: white;
+}
+.detailsP{
+    margin: 0;
+    padding-left:10px;
+    width: 46vh;
+    position: relative;
+    box-shadow: 0px 55px #707070;
+    background-color: #707070;
+}
+.detailsP2{
+    margin: 0;
+    padding-left:10px;
+    width: 46vh;
+    position: relative;
+    box-shadow: 0px 55px #707070;
+    background-color: #707070;
+}
+.detailsP3{
+    margin: 0;
+    padding-left:10px;
+    width: 46vh;
+    position: relative;
+    box-shadow: 0px 55px #707070;
+    background-color: #707070;
+}
+
+

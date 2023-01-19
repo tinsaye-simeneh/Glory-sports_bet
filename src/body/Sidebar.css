@@ -1,0 +1,28 @@
+.side{
+    margin-top: 3vh;
+    width: 42vh;
+    height: 80vh;
+    margin-left: 6vh;
+    align-items: center;
+    background-color: black;
+}
+.sideList{
+    margin: 0;
+    color: white;
+    padding-left: 8vh;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    font-size: 2.3vh;
+    font-weight: lighter;
+    font-family: sans-serif;
+    height: 7vh;
+    align-items: center;
+}
+a:link{
+    text-decoration: none;
+}
+.sideList:hover{
+    background: #292b31;
+    transition-duration: 0.3s;
+    border-left:  0.5vh solid yellow;
+}

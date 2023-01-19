@@ -1,0 +1,33 @@
+.checkTicket{
+    margin: 10vh auto;
+    width: 62vh;
+}
+.ticketHeader{
+    border-bottom:solid;
+    border-color: #FDD70A;
+    border-radius: 2px;
+    margin-bottom: 5vh;
+}
+.ticketInput{
+    background-color: #FDD70A;
+    text-decoration: none;
+    border: none;
+    height: 6vh;
+    width: 62vh;
+    margin-top: 1vh;
+    margin-bottom: 2vh;
+}
+::placeholder{
+    color: black;
+}
+.ticketButton{
+    text-decoration: none;
+    border: none;
+    background-color: black;
+    color: white;
+    height: 6vh;
+    width: 62vh;
+}
+.ticketButton:hover{
+    opacity: 0.8;
+}

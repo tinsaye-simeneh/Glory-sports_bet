@@ -1,0 +1,39 @@
+.top2Nav{
+    background-color: black;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: 1.5vh 7.5vh 1.5vh 7vh;
+    height: 9.09vh;
+    color: white;
+    font-size: 17px;
+    font-weight: lighter;
+    padding-right: 3vh;
+}
+.midTop2Element{
+    color:white;
+    font-size: 17px;
+    padding-left: 50px;
+    font-weight: lighter;
+}
+.midTop2Element:hover{
+    opacity: 0.5;
+}
+.language{
+    text-decoration: none;
+    border: none;
+    background-color: black;
+    color:white;
+    font-size: 17px;
+    padding-top: 8px;
+    font-weight: lighter;
+}
+.iconSpan{
+    width: 130vh;
+}
+.flag{
+    padding-top: 2.3vh;
+    padding-right: 1vh;    
+}
+
+

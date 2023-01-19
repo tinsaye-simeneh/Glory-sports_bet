@@ -1,0 +1,23 @@
+.slipContainer{
+    background-color: #707070;
+    text-align: left;
+    font-size: 3vh;
+    color: white;
+    width: 46vh;
+    height: 30vh;
+    margin-top: 3vh;
+    margin-right: 6vh;
+}
+
+.slip{
+    padding: 10px;
+}
+.slipHr{
+    width: 230px;
+    height: 1px;
+    align-items: left;
+    background-color: #FFFF00;
+}
+.matchInSlip{
+    background-color: #707070;
+}

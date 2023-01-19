@@ -1,0 +1,41 @@
+.back{
+    height: 50vh;
+    margin-left: 20vh;
+    margin-top: 2vh;
+}
+@media(max-width:800px){
+    .table, .table tbody, .table tr, .table td{
+        display: block;
+        width: 100%;
+    }
+    .table tr{
+        margin-bottom: 15px;
+    }
+    .table td{
+        padding-left: 50px;
+        position: relative;
+    }
+    table td::before{
+        position: absolute;
+        left: 0;
+        width: 70%;
+    }
+}
+@media(max-width:500px){
+    .table, .table tbody, .table tr, .table td{
+        display: block;
+        width: 100%;
+    }
+    .table tr{
+        margin-bottom: 15px;
+    }
+    .table td{
+        padding-left: 50px;
+        position: relative;
+    }
+    table td::before{
+        position: absolute;
+        left: 0;
+        width: 50%;
+    }
+}

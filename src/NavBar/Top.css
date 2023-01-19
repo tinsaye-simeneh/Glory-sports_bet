@@ -1,0 +1,26 @@
+.topNav{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1.5vh 8vh 1.5vh 2vh;
+    height: 11vh;
+}
+.topLogo{
+    width:40vh;
+    height: 13vh;
+}
+span{
+    margin: 0 1.5vh;
+}
+.account{
+    margin: 0;
+    border: none;
+    margin-left: 0.5vh;
+    height: 5vh;
+    width: 13vh;
+    font-size: 2.2vh;
+    text-decoration: none;
+    color: black;
+    background-color: #FCD609 ;
+}
