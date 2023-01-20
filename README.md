@@ -5,5 +5,5 @@ Contributors:
 - [Tinsaye](https://github.com/tinsaye-simeneh)
 - [Heyeman](https://github.com/Heyeman)
 - Yohannes
-- Eyosias
+- [Eyosias](https://github.com/eyos-ias)
 - [Yidnekachew](https://github.com/yidyedelina)
