@@ -3,7 +3,7 @@ Sport Booking site built for Glory Sports Bet by collaborating with other
 
 Contributors:
 - [Tinsaye](https://github.com/tinsaye-simeneh)
-- [Heyeman] (https://github.com/Heyeman)
+- [Heyeman](https://github.com/Heyeman)
 - Yohannes
 - Eyosias
-- Yidnekachew 
+- [Yidnekachew](https://github.com/yidyedelina)
