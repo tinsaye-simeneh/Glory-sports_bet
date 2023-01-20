@@ -1,5 +1,8 @@
 # Glory-sports_bet
-Sport Booking site built for Glory Sports Bet with a collaboration
+Sport Booking site built for Glory Sports Bet by collaborating with other
 
 Contributors:
-- Heyeman, John, Eyosias, Yidnekachew 
+- Heyeman
+- Yohannes
+- Eyosias
+- Yidnekachew 
