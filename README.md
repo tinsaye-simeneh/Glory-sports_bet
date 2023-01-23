@@ -1,5 +1,5 @@
 # Glory-sports_bet
-Sport Booking site built for Glory Sports Bet by collaborating with other
+Sport Booking site built for Glory Sports Bet by collaborating with others
 
 Contributors:
 - [Tinsaye](https://github.com/tinsaye-simeneh)
