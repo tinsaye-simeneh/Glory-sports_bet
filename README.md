@@ -1,4 +1,4 @@
-# Glory-sports_bet
+# Glory Sports bet
 Sport Booking site built for Glory Sports Bet by collaborating with others using react.js
 
 Contributors:
